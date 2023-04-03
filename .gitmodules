@@ -1,0 +1,3 @@
+[submodule "external/SlackTextViewController"]
+	path = external/SlackTextViewController
+	url = git@github.com:drasticactions/SlackTextViewController.git
